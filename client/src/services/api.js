@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://dull-puce-chipmunk-cuff.cyclic.app';
+const API_URL = '';
 
 export const uploadFile = async (data) => {
     try {
