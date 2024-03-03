@@ -5,7 +5,7 @@ File-Sharing-Application is a modern and efficient file-sharing solution built o
 ![Screenshot 2024-01-01 222137](https://github.com/sheelganvir/File-Sharing-Application/assets/128175450/4e43eab6-dfc0-40a9-8bed-6cad9e9639bc)
 
 ## Features 🪄
-- Seamless File Uploads: Intuitive user interface for hassle-free non-stop file uploads.
+- Seamless File Uploads: Intuitive user interface for hassle-free easy file uploads.
 - Unique Link Generation: Each uploaded file is assigned a unique link for easy sharing.
 - MERN Stack: Utilizes MongoDB for secure storage, Express.js and Node.js for the backend, and React.js for the frontend.
 - User-Friendly Interface: A sleek and responsive design ensures a smooth user experience.
